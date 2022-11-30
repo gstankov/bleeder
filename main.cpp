@@ -30,7 +30,7 @@
  * - Outputs blank file 'new.tif' (it shouldn't be blank but a copy of a source file, a.k.a the program is currently broken)
  * - Profit?
  * 
- * I've put together this sourco code frome 'god knows where' but the basic usage of 'libtiff' library can be found here: http://www.libtiff.org/libtiff.html
+ * I've put together this source code from 'god knows where' but the basic usage of 'libtiff' library can be found here: http://www.libtiff.org/libtiff.html
  *   
  * !!NOTE!! Current 'libtiff' library used here is downloaded from a hijacked website (http://www.libtiff.org/) and it is outdated.
  * See more here: https://en.wikipedia.org/wiki/LibTIFF
